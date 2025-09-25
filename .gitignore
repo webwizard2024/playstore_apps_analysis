@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# VS Code settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (optional, if you don't want to upload CSVs or images)
+# oid_csv/
+# stadium_pic/
+
